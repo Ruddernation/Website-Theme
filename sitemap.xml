@@ -5,99 +5,47 @@
   xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                       http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <url>
-    <loc>https://www.ruddernation.com/</loc>
+    <loc>https://www.website.com/</loc>
 	<changefreq>monthly</changefreq>
   </url>
 	<url>
-    <loc>https://www.ruddernation.com/human.txt</loc>
+    <loc>https://www.website.com/human.txt</loc>
 	<changefreq>monthly</changefreq>
   </url>
     <url>
-    <loc>https://www.ruddernation.com/index.php</loc>
+    <loc>https://www.website.com/index.php</loc>
 	<changefreq>monthly</changefreq>
   </url>
-    <url>
-    <loc>https://www.ruddernation.com/canvas/snake/</loc>
-    <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>https://www.ruddernation.com/canvas/snake2/</loc>
-    <changefreq>monthly</changefreq>
-  </url>
 <url>
-  <loc>https://www.ruddernation.com/canvas/particle/</loc>
+  <loc>http://www.website.com/tac/index.php</loc>
   <changefreq>monthly</changefreq>
 </url>
 <url>
-  <loc>https://www.ruddernation.com/canvas/particle2/</loc>
+  <loc>http://www.website.com/tac/</loc>
   <changefreq>monthly</changefreq>
 </url>
 <url>
-  <loc>https://www.ruddernation.com/canvas/particle3/</loc>
+  <loc>https://www.website.com/humans.txt</loc>
   <changefreq>monthly</changefreq>
 </url>
 <url>
-  <loc>https://www.ruddernation.com/canvas/illusion/</loc>
+  <loc>https://www.website.com/cookie-policy</loc>
   <changefreq>monthly</changefreq>
 </url>
 <url>
-  <loc>https://www.ruddernation.com/canvas/watertext/</loc>
+  <loc>https://www.website.com/cookie-policy/index.php</loc>
   <changefreq>monthly</changefreq>
 </url>
 <url>
-  <loc>https://www.ruddernation.com/canvas/water/</loc>
+  <loc>https://www.website.com/privacy-policy/index.php</loc>
   <changefreq>monthly</changefreq>
 </url>
 <url>
-  <loc>https://www.ruddernation.com/canvas/plasma/</loc>
-  <changefreq>monthly</changefreq>
-</url>
-<url>
-  <loc>https://www.ruddernation.com/canvas/spinicle/</loc>
-  <changefreq>monthly</changefreq>
-</url>
-<url>
-  <loc>https://www.ruddernation.com/canvas/fire/</loc>
-  <changefreq>monthly</changefreq>
-</url>
-<url>
-  <loc>https://www.ruddernation.com/canvas/ball/</loc>
-  <changefreq>monthly</changefreq>
-</url>
-<url>
-  <loc>https://www.ruddernation.com/canvas/ball2/</loc>
-  <changefreq>monthly</changefreq>
-</url>
-<url>
-  <loc>http://www.ruddernation.com/tac/index.php</loc>
-  <changefreq>monthly</changefreq>
-</url>
-<url>
-  <loc>http://www.ruddernation.com/tac/</loc>
-  <changefreq>monthly</changefreq>
-</url>
-<url>
-  <loc>https://www.ruddernation.com/humans.txt</loc>
-  <changefreq>monthly</changefreq>
-</url>
-<url>
-  <loc>https://www.ruddernation.com/cookie-policy</loc>
-  <changefreq>monthly</changefreq>
-</url>
-<url>
-  <loc>https://www.ruddernation.com/cookie-policy/index.php</loc>
-  <changefreq>monthly</changefreq>
-</url>
-<url>
-  <loc>https://www.ruddernation.com/privacy-policy/index.php</loc>
-  <changefreq>monthly</changefreq>
-</url>
-<url>
-  <loc>https://www.ruddernation.com/privacy-policy/</loc>
+  <loc>https://www.website.com/privacy-policy/</loc>
   <changefreq>monthly</changefreq>
 </url>
 	<url>
-  <loc>https://www.ruddernation.com/security.txt/</loc>
+  <loc>https://www.website.com/security.txt/</loc>
   <changefreq>monthly</changefreq>
 </url>
 </urlset>
