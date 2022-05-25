@@ -1,2 +1,5 @@
-# Website-Theme
-Quick an easy theme that's easy to setup for an instant look homepage.
+# Frognation
+
+This is a quick and easy website theme with an instant homepage.
+
+https://www.ruddernation.com
