@@ -1,0 +1,24 @@
+/* TEAM */
+
+	Developed by: Ruddernation Designs
+	Contact: support@ruddernation.com
+	From: United Kingdom
+	Location: Dublin
+	Domain: https://www.ruddernation.com
+
+/* SITE */
+
+	Start of new look: 04 September 2021
+	Last Major Update: 25 May 2022
+    Last Minor Update: 25 May 2022
+	Language: English (GB)
+	Doctype: HTML5
+	Software: cloudflare-nginx
+	Programming Languages: PHP, Hack, Python, JavaScript, JSON
+	Markup Languages: HTML5
+	Style Sheet Language: CSS3, SASS, LESS
+	
+/* SPECIAL THANKS */
+
+	jQuery: https://jquery.org
+	@ajlkn | github.com/ajlkn
