@@ -48,4 +48,12 @@
   <loc>https://www.website.com/security.txt/</loc>
   <changefreq>monthly</changefreq>
 </url>
+
+  <loc>https://www.website.com/api/</loc>
+  <changefreq>monthly</changefreq>
+</url>
+
+  <loc>https://www.website.com/chat/<\loc>
+  <changefreq>monthly</changefreq>
+</url>
 </urlset>
